@@ -6,7 +6,8 @@
 
 ### Update /etc/hosts file for local DNS with Web Servers’ names (e.g. Web1 and Web2) and their local IP addresses
 
-![Alt text](<Images/Screenshot 2023-07-14 153739.png>)
+![Alt text](<Images/Screenshot 2023-07-15 100353.png>)
+
 
 ### Install and configure Nginx as a load balancer to point traffic to the resolvable DNS names of the webservers
 
